@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Exercise4_EmployeeManagement</RootNamespace>
+    <AssemblyName>Exercise4_EmployeeManagement</AssemblyName>
+    <StartupObject>Exercise4_EmployeeManagement.EmployeeManager</StartupObject>
+  </PropertyGroup>
+
+</Project>
